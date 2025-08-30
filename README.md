@@ -39,26 +39,26 @@ Basic Input/Output
 
 ## 🚀 Getting Started
 1. Save Code
-
+```bash
 Save the file as blood_pressure.cpp.
-
+```
 2. Compile
 
 Using g++:
-
+```bash
 g++ blood_pressure.cpp -o blood_pressure
-
+```
 3. Run
 
 On Linux/Mac:
-
+```bash
 ./blood_pressure
-
+```
 
 On Windows:
-
+```bash
 blood_pressure.exe
-
+```
 ## 3🎯 Example Usage
 ## ✅ Input:
 Enter systolic blood pressure : 128
@@ -80,9 +80,10 @@ Stage 2 Hypertension → Systolic ≥ 140 or Diastolic ≥ 90
 Hypertensive Crisis → Systolic > 180 or Diastolic > 120
 
 ## 📂 File Structure
+```bash
 blood_pressure.cpp   # Main C++ source code
 README.md            # Documentation
-
+```
 ## 📌 Future Improvements
 
 Add validation for negative or invalid inputs.
